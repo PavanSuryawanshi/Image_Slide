@@ -13,11 +13,11 @@ html, body{
    display: flex;
    margin-top: 5%;
    gap: 10px;
-   margin-left: 10%;
+   margin-left: 6.5%;
 }
 img{
    width: 5%;
-   border-radius: 30px;
+   border-radius: 35px;
    transition: ease-in 1s;
 }
 .active{
